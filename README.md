@@ -2,7 +2,7 @@ Will the Customer Accept the Coupon?
 
 Context
 
-Imagine driving through town and a coupon is delivered to your cell phone for a restaraunt near where you are driving. 
+Imagine driving through town and a coupon is delivered to your cell phone for a restaurant near where you are driving. 
 Would you accept that coupon and take a short detour to the restaraunt? Would you accept the coupon but use it on a sunbsequent trip? 
 Would you ignore the coupon entirely? What if the coupon was for a bar instead of a restaraunt? 
 What about a coffee house? Would you accept a bar coupon with a minor passenger in the car? 
