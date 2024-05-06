@@ -27,4 +27,4 @@ There are five different types of coupons -- less expensive restaurants (under \
 Repo Structure 
 1. The coupon_acceptance_rate.ipynb file contains python code related to data analysis, visualization
 2. The data folder has coupons.csv file that contains sample data used in this application
-3. The couponacceptanceratereport.doc file has brief report on differences between customers who did and did not accept the coupons.
+3. The couponacceptanceratereport.docx file has brief report on differences between customers who did and did not accept the coupons.
