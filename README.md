@@ -29,3 +29,12 @@ Repo Structure
 1. The coupon_acceptance_rate.ipynb file contains python code related to data analysis, visualization
 2. The data folder has coupons.csv file that contains sample data used in this application
 3. The couponacceptanceratereport.docx file has brief report on differences between customers who did and did not accept the coupons.
+
+Key Highlights
+
+•	There are five distinct types of coupons: Restaurant under 20, Carry-Out & Take Away, Restaurant 20-50, Bar and Coffee House. The Coffee House coupon has highest distribution among all types and its acceptance rate is higher compared to Bar coupon acceptance rate.
+•	The Bar coupon acceptance rate is 40.94% for a given data where customer will use it right away or before it expires.
+•	The highest Bar Coupon Acceptance rate is 76.17% for customers who went to bar three or more times and their acceptance is even higher than overall Bar coupon acceptance rate.
+•	The CoffeeHouse Coupon Acceptance rate is 49.70% for a given data where customer will use coupon right away or before it expires.
+•	The highest CoffeeHouse coupons acceptance rate is 76.63% for customers who go to a CoffeeHouse more than once a month with Friends or Partner and their acceptance is even higher than overall CoffeeHouse coupon acceptance rate.
+
