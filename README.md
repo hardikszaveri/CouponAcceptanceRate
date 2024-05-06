@@ -32,9 +32,10 @@ Repo Structure
 
 Key Highlights
 
-•	There are five distinct types of coupons: Restaurant under 20, Carry-Out & Take Away, Restaurant 20-50, Bar and Coffee House. The Coffee House coupon has highest distribution among all types and its acceptance rate is higher compared to Bar coupon acceptance rate.
-•	The Bar coupon acceptance rate is 40.94% for a given data where customer will use it right away or before it expires.
-•	The highest Bar Coupon Acceptance rate is 76.17% for customers who went to bar three or more times and their acceptance is even higher than overall Bar coupon acceptance rate.
-•	The CoffeeHouse Coupon Acceptance rate is 49.70% for a given data where customer will use coupon right away or before it expires.
-•	The highest CoffeeHouse coupons acceptance rate is 76.63% for customers who go to a CoffeeHouse more than once a month with Friends or Partner and their acceptance is even higher than overall CoffeeHouse coupon acceptance rate.
+1.	There are five distinct types of coupons: Restaurant under 20, Carry-Out & Take Away, Restaurant 20-50, Bar and Coffee House. The Coffee House coupon has highest distribution among all types and its acceptance rate is higher compared to Bar coupon acceptance rate.
+2.	The Bar coupon acceptance rate is 40.94% for a given data where customer will use it right away or before it expires.
+3.	The highest Bar Coupon Acceptance rate is 76.17% for customers who went to bar three or more times and their acceptance is even higher than overall Bar coupon acceptance rate.
+4.	The CoffeeHouse Coupon Acceptance rate is 49.70% for a given data where customer will use coupon right away or before it expires.
+5.	The highest CoffeeHouse coupons acceptance rate is 76.63% for customers who go to a CoffeeHouse more than once a month with Friends or Partner and their acceptance is even higher than overall CoffeeHouse coupon acceptance rate.
+
 
