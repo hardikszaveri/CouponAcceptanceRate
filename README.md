@@ -43,7 +43,7 @@ Next steps and Recommendations
 
 1.	Further analysis of bar coupons data to get an insight on why Bar coupon acceptance rate is lower for customers who visits at-least once but less than three times and identify the parameters (if any) which reduces their acceptance rate.
 2.	Further analysis of coffee house coupons data for customers age between 40 and 50 to get an insight of why their coupon rejection rate is higher than their acceptance rate.
-3.	Data exploration for Restaurant under 20, Carry-Out & Take Away, Restaurant 20-50 types coupons to get insights on their coupon acceptance rate.
+3.	Data exploration for Restaurant under 20, Carry-Out & Take Away, Restaurant 20-50 types of coupons to get insights on their coupon acceptance rate.
 
 
 
